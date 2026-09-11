@@ -256,3 +256,6 @@ This repository serves as the official landing page for Tor Browser. The softwar
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of Tor Browser today!**
+
+---
+**Last updated:** 2026-09-11 12:01:18 UTC
