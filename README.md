@@ -258,4 +258,4 @@ This repository serves as the official landing page for Tor Browser. The softwar
 **Get the most recent version of Tor Browser today!**
 
 ---
-**Last updated:** 2026-09-17 05:43:21 UTC
+**Last updated:** 2026-09-17 10:57:04 UTC
